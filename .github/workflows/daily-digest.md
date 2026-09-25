@@ -7,6 +7,7 @@ on:
 permissions:
   contents: read
 safe-outputs:
+  threat-detection: false
   create-issue:
     max: 1
 ---
