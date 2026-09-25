@@ -1,5 +1,6 @@
 ---
 name: Daily Digest
+engine: gemini
 on:
   schedule: daily on weekdays
   workflow_dispatch:
